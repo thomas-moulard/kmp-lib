@@ -17,5 +17,6 @@ void test_kamounum()
 		typedef monom_<int_<4>, x_, 2 > rhs_t;
 		typedef plus_<lhs_t, rhs_t>::value res_t;
 		display<res_t>(std::cout);
+		std::cout << std::endl;
 	}
 }

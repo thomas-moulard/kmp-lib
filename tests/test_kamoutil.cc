@@ -127,11 +127,6 @@ void test_kamoutil()
 		// accept_only_rspec(t4); // should not compile
 		accept_only_rspec(pab);
 	}
-
-
-#ifdef WIN32
-	system("pause");
-#endif
 }
 
 #ifdef WIN32

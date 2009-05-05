@@ -3,5 +3,6 @@ set(KMPTESTS_SRC
 	test_kamoutree.cc
 	test_kamounum.cc
 	test_kamoutil.cc
+	test_kamouctrl.cc
 	test_main.cc
 )

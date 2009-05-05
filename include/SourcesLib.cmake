@@ -3,4 +3,5 @@ set(KMP_HEADERS
 	kmp/kamoutree.hh
 	kmp/kamounum.hh
 	kmp/kamoutil.hh
+	kmp/kamouctrl.hh
 )
